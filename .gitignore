@@ -19,5 +19,8 @@ package-lock.json
 # Ignore folders related to IDEs
 .vscode/
 
+# Personal context (CV, bio, etc.) — not for public repo
+_backgrmat/
+
 # Ignore files created by MacOS
 .DS_Store

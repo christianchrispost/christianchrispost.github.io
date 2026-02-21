@@ -19,6 +19,13 @@
 </div>
 {% endif %}
 
+{% if site.quote_footer %}
+<blockquote class="page__footer-quote">
+  <p><em>{{ site.quote_footer }}</em></p>
+  <footer>— {{ site.quote_footer_source }}</footer>
+</blockquote>
+{% endif %}
+
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}
