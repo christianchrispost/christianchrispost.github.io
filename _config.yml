@@ -37,7 +37,8 @@ author:
   #location         : "Earth"
   employer         : "Research Center Trustworthy Data Science and Security"
   uri              : # URL
-  #email            : "none@example.org" 
+  #email            : "none@example.org"
+  cv_pdf           : # e.g. "cv.pdf" — add your CV PDF to files/ and uncomment to show download button 
 
   # Academic websites
   academia         : # URL
