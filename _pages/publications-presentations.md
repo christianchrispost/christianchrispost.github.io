@@ -12,25 +12,22 @@ redirect_from:
 {% endif %}
 
 ## Publications & Presentations
+### Forthcoming
+- Further papers from current projects expected by early 2026. [→ See current projects below](#research-projects)
+- **Full paper on Theory of Mind and Reasoning**
+  Preprint: | 
 ### 2025:
 - **Probing the Robustness of Theory of Mind in Large Language Models**  
 Christian Nickel, Laura Schrewe, Lucie Flek  
 *ToM4AI Workshop @ AAAI 2025, Philadelphia, PA, USA — March 3, 2025*  
 Short paper and poster presentation  
 [\[arXiv\]](https://arxiv.org/abs/2410.06271)
-
 ### 2024:
 - **Probing the Robustness of Theory of Mind in Large Language Models**  
 Laura Schrewe, Christian Nickel, Lucie Flek  
 *WiNLP @ EMNLP 2024, Miami, FL, USA — November 2024*  
 Short paper and poster · 🏆 **Best Poster Award**  
 [\[arXiv\]](https://arxiv.org/abs/2410.06271) · [\[OpenReview\]](https://openreview.net/forum?id=X8Mdv9qLOS)
-
-### Forthcoming
-- Further papers from current projects expected by end of 2025 / early 2026.  
-[→ See current projects below](#research-projects)
-- **Full paper on Theory of Mind and Reasoning**  
-*Currently under review*
 
 ## Research Projects
 ### Ongoing

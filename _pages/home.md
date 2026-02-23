@@ -16,9 +16,6 @@ I believe that current and next-generation generative AI can help us make tremen
 Holding an M.Sc. in Computer Science from the University of Bonn, Germany, I seek to address these questions in my future PhD research. I am passionate about interdisciplinary approaches that push the boundaries of AI and its applications and enjoy collaborating with researchers and practitioners across relevant fields.
 I currently work as a full-time researcher at the [Research Center Trustworthy Data Science and Security (RC-Trust)](https://rc-trust.ai) and the University of Duisburg-Essen, in the group “Human Understanding of Algorithms and Machines” (HUAM), which focuses on behavioral effects in humans in relation to AI.
 
-[Read more about my research, professional and general interests →](/about/)  
-[Read more about my background →](/about/)
-
 ## News
 - **2024** — Laura Schrewe and I received the **Best Poster Award** at EMNLP’s WiNLP workshop for our work on probing Theory of Mind in large language models.
 
