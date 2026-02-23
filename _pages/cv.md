@@ -35,7 +35,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - **CAISA Lab, Bonn-Aachen International Center for Information Technology (b-it)**
   - Built and evaluated systems of multiple socially-aware LLM-based agents incorporating Theory of Mind
   - Investigated emergent Theory of Mind capabilities in Large Language Models
-  - Published research on LLM Theory of Mind robustness (WiNLP @ EMNLP 2024, Best Poster Award)
+  - Published research on LLM Theory of Mind robustness ([WiNLP @ EMNLP 2024, Best Poster Award](/awards/))
   - Presented follow-up work at the ToM4AI workshop @ AAAI 2025
 - **Research Assistant — Sep 2022 – Aug 2023**
   - **Fraunhofer Institute for Applied Information Technology (FIT)**
@@ -55,12 +55,12 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - **University of Bonn** — Focus: Cybersecurity, Usable Security, Artificial Intelligence
 
 ## Awards & Recognition
-- **Best Poster Award — 2024**
+- **[Best Poster Award — 2024](/awards/)**
   - *WiNLP @ EMNLP 2024, Miami, FL, USA* — **"Probing the Robustness of Theory of Mind in Large Language Models"** — with Laura Schrewe
   - Large Language Models fail to attribute beliefs to others in non-trivial situations; Chain-of-Thought reasoning seldom helps.
 
 ## Publications & Presentations
-- **WiNLP @ EMNLP 2024, Miami, FL, USA** — Short paper and poster, Best Poster Award *(2024)*
+- **[WiNLP @ EMNLP 2024, Miami, FL, USA](/awards/)** — Short paper and poster, Best Poster Award *(2024)*
 - **ToM4AI Workshop @ AAAI 2025, Philadelphia, PA, USA** — Short paper and poster presentation *(2025)*
 - **Extended robustness and reasoning study** — currently under review *(2025/2026)*
 

@@ -17,6 +17,6 @@ Holding an M.Sc. in Computer Science from the University of Bonn, Germany, I see
 I currently work as a full-time researcher at the [Research Center Trustworthy Data Science and Security (RC-Trust)](https://rc-trust.ai) and the University of Duisburg-Essen, in the group “Human Understanding of Algorithms and Machines” (HUAM), which focuses on behavioral effects in humans in relation to AI.
 
 ## News
-- **2024** — Laura Schrewe and I received the **Best Poster Award** at EMNLP’s WiNLP workshop for our work on probing Theory of Mind in large language models.
+- **2024** — Laura Schrewe and I received the **[Best Poster Award](/awards/)** at EMNLP’s WiNLP workshop for our work on probing Theory of Mind in large language models.
 
 [View all publications, presentations and projects →](/publications-presentations/)

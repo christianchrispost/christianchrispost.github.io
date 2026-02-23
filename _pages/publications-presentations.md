@@ -22,7 +22,7 @@ Short paper and poster presentation
 - **Probing the Robustness of Theory of Mind in Large Language Models**  
 Laura Schrewe, Christian Nickel, Lucie Flek  
 *WiNLP @ EMNLP 2024, Miami, FL, USA — November 2024*  
-Short paper and poster · 🏆 **Best Poster Award**  
+Short paper and poster · 🏆 **[Best Poster Award](/awards/)**  
 [\[arXiv\]](https://arxiv.org/abs/2410.06271) · [\[OpenReview\]](https://openreview.net/forum?id=X8Mdv9qLOS)
 
 ## Research Projects
@@ -45,7 +45,7 @@ strategies, and the cognitive effects of perceived AI agency on human decision-m
 Developed a comprehensive human-written and annotated benchmark dataset of 68 tasks across 10
 complexity classes for evaluating Theory of Mind in LLMs. Created novel metrics for assessing
 Chain-of-Thought reasoning correctness and investigated robustness of ToM capabilities under
-various perturbations. Presented at WiNLP @ EMNLP 2024 (Best Poster Award) and ToM4AI @ AAAI 2025.  
+various perturbations. Presented at [WiNLP @ EMNLP 2024](/awards/) (Best Poster Award) and ToM4AI @ AAAI 2025.  
 [\[arXiv\]](https://arxiv.org/abs/2410.06271)
 - **Human vs Machine Attention Analysis** *(2023)*  
 *Lab: Development and Application of Data Mining, University of Bonn*
