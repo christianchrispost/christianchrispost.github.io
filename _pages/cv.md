@@ -18,7 +18,6 @@ redirect_from:
 ---
 
 ## Research Interests
-
 - AI Safety and (Cyber-)Security, Model Alignment and Steerability
 - Reasoning, Tool Usage, and Agentic AI Systems
 - Human–AI Interaction (HAI), Usable Security, and HCI — including Theory of Mind and user modeling
@@ -28,18 +27,15 @@ redirect_from:
 ---
 
 ## Professional Experience
-
 ### PhD Researcher — Jan 2025 – present
 **Research Center Trustworthy Data Science and Security (RC-Trust) & University of Duisburg-Essen**  
 *Group: Human Understanding of Algorithms and Machines (HUAM), Prof. Dr. Nils Köbis*
-
 - Investigating shifts in human strategic behavior in economic games when facing AI opponents
 - Research at the intersection of AI, behavioral science, and human cognition
 - Parallel project on LLM agent steerability and behavior analysis (with Dr. Florian Mai, University of Bonn)
 
 ### Researcher — Oct 2024 – Dec 2024
 **CAISA Lab, Bonn-Aachen International Center for Information Technology (b-it)**
-
 - Built and evaluated systems of multiple socially-aware LLM-based agents incorporating Theory of Mind
 - Investigated emergent Theory of Mind capabilities in Large Language Models
 - Published research on LLM Theory of Mind robustness (WiNLP @ EMNLP 2024, Best Poster Award)
@@ -47,24 +43,20 @@ redirect_from:
 
 ### Research Assistant — Sep 2022 – Aug 2023
 **Fraunhofer Institute for Applied Information Technology (FIT)**
-
 - Developed and evaluated Self-Sovereign Identity (SSI) solutions with a focus on usability and interoperability
 - Worked on Distributed Ledger Technology (DLT/Blockchain) projects
 
 ### Teaching Assistant — Apr 2021 – Sep 2021 & Apr 2022 – Sep 2022
 **University of Bonn, Department of Computer Science**
-
 - Tutored and held lectures in the "Human-Computer Interaction" course under Prof. Dr. Matthew Smith and Dr. Christian Tiefenau
 
 ### Teaching Assistant — Oct 2020 – Mar 2021
 **University of Bonn, Department of Computer Science**
-
 - Tutored "Datenzentrierte Informatik" (Data-Centric Computer Science), a course on Machine Learning and Databases under Prof. Dr. Christian Bauckhage
 
 ---
 
 ## Education
-
 ### M.Sc. in Computer Science — Jul 2021 – Sep 2024
 **University of Bonn**  
 Focus: Artificial Intelligence, Machine Learning, Cybersecurity
@@ -76,7 +68,6 @@ Focus: Cybersecurity, Usable Security, Artificial Intelligence
 ---
 
 ## Awards & Recognition
-
 ### Best Poster Award — 2024
 *WiNLP @ EMNLP 2024, Miami, FL, USA*  
 **"Probing the Robustness of Theory of Mind in Large Language Models"** — with Laura Schrewe  
@@ -85,7 +76,6 @@ Large Language Models fail to attribute beliefs to others in non-trivial situati
 ---
 
 ## Publications & Presentations
-
 - **WiNLP @ EMNLP 2024, Miami, FL, USA** — Short paper and poster, Best Poster Award *(2024)*
 - **ToM4AI Workshop @ AAAI 2025, Philadelphia, PA, USA** — Short paper and poster presentation *(2025)*
 - **Extended robustness and reasoning study** — currently under review *(2025/2026)*
@@ -95,10 +85,8 @@ Large Language Models fail to attribute beliefs to others in non-trivial situati
 ---
 
 ## Projects
-
 ### Socially-Aware LLM Agents with Theory of Mind — 2024
 *CAISA Lab, University of Bonn*
-
 - Developed framework for LLM-based social agents with authentic personality representation and Theory of Mind reasoning
 - Implemented system for agents to maintain private mental states and public conversational outputs
 - Generated persona-driven conversations using personality vectors (Big5, MBTI)
@@ -107,7 +95,6 @@ Large Language Models fail to attribute beliefs to others in non-trivial situati
 
 ### Theory of Mind in Large Language Models — 2024
 *CAISA Lab, University of Bonn*
-
 - Developed comprehensive human-written and annotated benchmark for evaluating ToM in LLMs
 - Created novel metrics for assessing Chain-of-Thought reasoning correctness
 - Investigated robustness of ToM capabilities under various perturbations
@@ -115,20 +102,17 @@ Large Language Models fail to attribute beliefs to others in non-trivial situati
 
 ### Human vs Machine Attention Analysis — 2023
 *Lab Development and Application of Data Mining, University of Bonn*
-
 - Compared human eye-tracking data with machine attention mechanisms in NLP
 - Analyzed correlation between human fixation patterns and machine saliency scores
 - Evaluated differences between English and German language processing
 
 ### Ethics in Autonomous Weapon Systems — 2023
 *AI Ethics Seminar, University of Bonn*
-
 - Analyzed ethical implications and legal framework of autonomous weapons systems
 - Evaluated concepts of meaningful human control in military AI applications
 
 ### Privacy Analysis of IoT Devices — 2021
 *Bachelor Thesis, University of Bonn*
-
 - Developed methodology for analyzing privacy compliance of IoT devices
 - Conducted comparative analysis of smart cameras from different jurisdictions
 - Implemented network traffic analysis setup using Raspberry Pi
@@ -136,21 +120,18 @@ Large Language Models fail to attribute beliefs to others in non-trivial situati
 
 ### RansomDenied: Usable Ransomware-Resistant Backup System — 2020
 *Bachelor Lab Project, University of Bonn*
-
 - Designed and implemented user-friendly backup system resistant to ransomware attacks
 - Conducted user research including expert interviews and requirements analysis
 - Applied user-centered design principles to a security-critical application
 
 ### ReselMusic: Cloud-based Multi-User Social Playlist Service — 2014
 *Private Project*
-
 - Designed and implemented cloud service for multimedia aggregation in playlists
 - PartyMode: users could check in via QR code and contribute to the playlist
 
 ---
 
 ## Professional Development & Trainings
-
 - **Trade Secrets Act (GeschGehG)** — PROvendis GmbH, Jun 2024
 - **PhD Workshop: "Promovieren?! Ja oder Nein?"** — Bonn Graduate Center, May 2024
 - **Voice Training: "Starke Stimme"** — Voice Coach Anne Weller, May 2024
@@ -161,7 +142,6 @@ Large Language Models fail to attribute beliefs to others in non-trivial situati
 ---
 
 ## Technical Skills
-
 **AI and Machine Learning:** Generative AI, LLMs, Deep Learning, PyTorch, TensorFlow, transformers, vLLM
 
 **High-Performance Computing:** Slurm, Jupyter Notebooks, Papermill, distributed computing
@@ -175,7 +155,6 @@ Large Language Models fail to attribute beliefs to others in non-trivial situati
 ---
 
 ## Languages
-
 - **German** — Native
 - **English** — Professional working proficiency
 - **Latin** — Latinum (officially certified)
@@ -184,6 +163,5 @@ Large Language Models fail to attribute beliefs to others in non-trivial situati
 ---
 
 ## Professional Memberships
-
 - Gesellschaft für Informatik (GI) — German Informatics Society
 - Bund Deutscher Volks- und Betriebswirte (bdvb) — German Association of Business Economists

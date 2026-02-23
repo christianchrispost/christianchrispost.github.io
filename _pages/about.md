@@ -8,7 +8,6 @@ author_profile: true
 > — William Blake, *Jerusalem* (c. 1804–1820)
 
 ## Who I Am
-
 I am Chris — a Computer Scientist and AI Researcher, currently working as a full-time researcher at the
 [Research Center Trustworthy Data Science and Security (RC-Trust)](https://rc-trust.ai)
 and the University of Duisburg-Essen, in the Human Understanding of Algorithms and Machines (HUAM) group.
@@ -22,7 +21,6 @@ behavior. A pre-print will be available soon.
 
 
 ## Research Journey
-
 My path toward AI safety and human–AI interaction grew through a series of research experiences
 that each deepened my understanding of what makes AI trustworthy.
 
@@ -48,7 +46,6 @@ analyzing network traffic and evaluating GDPR conformity.
 
 
 ## Education
-
 - **M.Sc. in Computer Science** — University of Bonn *(2021 – 2024)*
   Focus: Artificial Intelligence, Machine Learning, Cybersecurity
 - **B.Sc. in Computer Science** (Psychology minor) — University of Bonn *(2017 – 2021)*
@@ -56,13 +53,11 @@ analyzing network traffic and evaluating GDPR conformity.
 
 
 ## Awards & Recognition
-
 - **Best Poster Award** — [WiNLP @ EMNLP 2024](https://arxiv.org/abs/2410.06271), Miami, FL
   *"Probing the Robustness of Theory of Mind in Large Language Models"* — with Laura Schrewe
 
 
 ## Beyond Research
-
 I am passionate about approaches that merge disciplines and push the boundaries of what we understand —
 in and outside of research. Some things I find myself thinking about, exploring or building in my spare time:
 
@@ -76,11 +71,3 @@ in and outside of research. Some things I find myself thinking about, exploring 
   deserted landscapes, and everything in between
 
 *Sic luceat lux.*
-
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
-- [Google Scholar](https://scholar.google.com/citations?user=021fdfQAAAAJ)
-- [ORCID](https://orcid.org/0009-0005-6585-0166)
-- [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Nickel,+C)

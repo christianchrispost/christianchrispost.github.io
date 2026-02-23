@@ -21,7 +21,6 @@ AI safety and security, and the interface to cybersecurity and human–AI intera
 
 
 ## Areas of Expertise
-
 - Generative AI, LLMs, and NLP
 - Deep Learning
 - Cybersecurity and Usable Security
@@ -29,9 +28,7 @@ AI safety and security, and the interface to cybersecurity and human–AI intera
 
 
 ## Research Interests
-
 ### AI Safety and (Cyber-)Security
-
 As AI systems grow more capable and autonomous, ensuring their safe and robust behavior under
 real-world conditions becomes critical. This encompasses both technical robustness and alignment
 with user intent, values, and ethics — and has direct overlap with cybersecurity.
@@ -51,7 +48,6 @@ with user intent, values, and ethics — and has direct overlap with cybersecuri
 
 
 ### Agentic AI, Tool Use, and Reasoning
-
 Agentic systems that call tools, write and execute code, browse the web, or interact with databases
 represent a qualitative leap in capability — and in risk surface. Understanding and shaping their
 behavior is one of the core challenges in current AI research.
@@ -68,7 +64,6 @@ behavior is one of the core challenges in current AI research.
 
 
 ### Human–AI Interaction and Theory of Mind
-
 Trustworthy AI is not only about what a model does in isolation — it is about how it interacts with
 humans who have incomplete information, cognitive biases, and diverse mental models of the system.
 
@@ -87,7 +82,6 @@ humans who have incomplete information, cognitive biases, and diverse mental mod
 
 
 ### Decentralized, Local, and Privacy-Preserving AI
-
 Most production AI inference today runs on third-party cloud infrastructure — which creates
 dependencies, potential conflicts of interest, and data sovereignty issues that are unacceptable
 in many security-sensitive, regulated, or simply privacy-conscious settings.
@@ -105,7 +99,6 @@ in many security-sensitive, regulated, or simply privacy-conscious settings.
 
 
 ### Distributed Ledger Technology × AI
-
 My earlier work on DLT, SSI, and smart contracts at Fraunhofer FIT laid a foundation that becomes
 increasingly relevant as AI agents become first-class actors in digital systems.
 
@@ -118,7 +111,6 @@ increasingly relevant as AI agents become first-class actors in digital systems.
 
 
 ## Key Research Questions
-
 - How can we detect or increase model steerability — including model personality and values,
   detecting sleeper agents, and selective disclosure (for Theory of Mind or in production
   according to user access levels) and jailbreak resistance?
@@ -128,4 +120,3 @@ increasingly relevant as AI agents become first-class actors in digital systems.
   asymmetries, and personality configurations — and what behavioral patterns should we anticipate
   and design for? *(current: Social Agents and strategic interaction project)*
 - How do we train, fine-tune, and host inference locally while preserving capability and security?
-
