@@ -16,6 +16,7 @@ redirect_from:
 Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 
 ## Research Interests
+[→ Full details on the Interests page](/research-interests/)
 - Generative AI, LLMs, NLP, Deep Learning
 - AI Safety and (Cyber-)Security
   - Model Reasoning, Alignment and Steerability
@@ -23,7 +24,6 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 - Human–AI Interaction (HAI), Usable Security, and HCI — including Theory of Mind and user modeling
 - Decentralized, local and privacy-preserving AI deployments
 - Distributed Ledger Technology (DLT), Self-Sovereign Identity (SSI) and Smart Contracts
-[→ Full details on the Interests page](/research-interests/)
 
 ## Professional Experience
 - **PhD Researcher — Jan 2025 – present**
