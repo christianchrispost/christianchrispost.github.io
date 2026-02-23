@@ -54,35 +54,29 @@ complexity classes for evaluating Theory of Mind in LLMs. Created novel metrics 
 Chain-of-Thought reasoning correctness and investigated robustness of ToM capabilities under
 various perturbations. Presented at WiNLP @ EMNLP 2024 (Best Poster Award) and ToM4AI @ AAAI 2025.  
 [\[arXiv\]](https://arxiv.org/abs/2410.06271)
-
 - **Human vs Machine Attention Analysis** *(2023)*  
 *Lab: Development and Application of Data Mining, University of Bonn*
 Compared human eye-tracking data with machine attention mechanisms in NLP. Analyzed correlation
 between human fixation patterns and machine saliency scores, and evaluated differences between
 English and German language processing.
-
 - **Ethics in Autonomous Weapon Systems** *(2023)*  
 *AI Ethics Seminar, University of Bonn*
 Analyzed ethical implications and the legal framework of autonomous weapons systems. Evaluated
 concepts of meaningful human control in military AI applications.
-
+- **Self-Sovereign Identity and DLT Solutions** *(2022 – 2023)*  
+*Fraunhofer Institute for Applied Information Technology (FIT)*
+Worked on Distributed Ledger Technology (DLT/Blockchain) solutions with a focus on usability
+and interoperability.
 - **Privacy Analysis of IoT Devices** *(2021)*  
 *Bachelor Thesis, University of Bonn*
 Developed a methodology for analyzing privacy compliance of IoT devices. Conducted comparative
 analysis of smart cameras from different jurisdictions, implemented a network traffic analysis
 setup using Raspberry Pi, and created an evaluation framework based on GDPR requirements.
-
 - **RansomDenied: Usable Ransomware-Resistant Backup System** *(2020)*  
 *Bachelor Lab Project, University of Bonn*
 Designed and implemented a user-friendly backup system resistant to ransomware attacks.
 Conducted user research including expert interviews and requirements analysis, applying
 user-centered design principles to a security-critical application.
-
-- **Self-Sovereign Identity and DLT Solutions** *(2022 – 2023)*  
-*Fraunhofer Institute for Applied Information Technology (FIT)*
-Worked on Distributed Ledger Technology (DLT/Blockchain) solutions with a focus on usability
-and interoperability.
-
 - **ReselMusic: Cloud-based Multi-User Social Playlist Service** *(2014)*  
 *Private Project*
 Designed and implemented a cloud service for multimedia aggregation in playlists. PartyMode
