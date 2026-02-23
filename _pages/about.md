@@ -19,7 +19,6 @@ I investigate the steerability of LLM agents with respect to predefined rules an
 social environments — analyzing how targeted interventions shape model reasoning and subsequent
 behavior. A pre-print will be available soon.
 
-
 ## Research Journey
 My path toward AI safety and human–AI interaction grew through a series of research experiences
 that each deepened my understanding of what makes AI trustworthy.
@@ -44,18 +43,15 @@ Earlier projects include RansomDenied, a user-centered ransomware-resistant back
 and my Bachelor's thesis on the privacy compliance of smart cameras across different jurisdictions —
 analyzing network traffic and evaluating GDPR conformity.
 
-
 ## Education
 - **M.Sc. in Computer Science** — University of Bonn *(2021 – 2024)*
   Focus: Artificial Intelligence, Machine Learning, Cybersecurity
 - **B.Sc. in Computer Science** (Psychology minor) — University of Bonn *(2017 – 2021)*
   Focus: Cybersecurity, Usable Security, Artificial Intelligence
 
-
 ## Awards & Recognition
 - **Best Poster Award** — [WiNLP @ EMNLP 2024](https://arxiv.org/abs/2410.06271), Miami, FL
   *"Probing the Robustness of Theory of Mind in Large Language Models"* — with Laura Schrewe
-
 
 ## Beyond Research
 I am passionate about approaches that merge disciplines and push the boundaries of what we understand —
@@ -70,4 +66,4 @@ in and outside of research. Some things I find myself thinking about, exploring 
 - **Exploring Places** — on foot, eMTB, or road trip: lively cities, abandoned monasteries,
   deserted landscapes, and everything in between
 
-*Sic luceat lux.*
+***Sic luceat lux.***
