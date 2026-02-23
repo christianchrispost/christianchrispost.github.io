@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV"
+title: "Christian Nickel - CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ redirect_from:
   <p><a href="{{ base_path }}/files/{{ site.author.cv_pdf }}" class="btn btn--primary">Download CV as PDF</a></p>
 {% endif %}
 
-[LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
+Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 
 ---
 
