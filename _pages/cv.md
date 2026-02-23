@@ -16,6 +16,7 @@ redirect_from:
 Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 
 ## Research Interests
+- Generative AI, LLMs, NLP, Deep Learning
 - AI Safety and (Cyber-)Security
   - Model Reasoning, Alignment and Steerability
   - Tool Usage, and Agentic AI Systems
