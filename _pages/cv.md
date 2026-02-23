@@ -13,9 +13,6 @@ redirect_from:
   <p><a href="{{ base_path }}/files/{{ site.author.cv_pdf }}" class="btn btn--primary">Download CV as PDF</a></p>
 {% endif %}
 
-
-# Christian Nickel
-
 [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 
 ---

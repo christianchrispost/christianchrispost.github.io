@@ -10,8 +10,6 @@ author_profile: true
 > — {{ site.quote_blockquote_source }}
 {% endif %}
 
-
-# Christian Nickel
 ## Welcome
 I am Chris, a Computer Scientist and AI Researcher with interests in AI safety and security, steerability, reasoning and tool usage, human–AI interaction (HAI), as well as decentralized, secure and privacy-preserving local / on-premise compute.
 

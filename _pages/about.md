@@ -7,7 +7,6 @@ author_profile: true
 > *"I must Create a System, or be enslav'd by another Man's; I will not Reason & Compare: my business is to Create."*
 > — William Blake, *Jerusalem* (c. 1804–1820)
 
-# About
 ## Who I Am
 
 I am Chris — a Computer Scientist and AI Researcher, currently working as a full-time researcher at the

@@ -3,7 +3,6 @@ permalink: /research-interests/
 title: "Research & Professional Interests"
 author_profile: true
 ---
-# Research & Professional Interests
 
 With the rapid proliferation of AI agents across science, business, and society — from coding assistants
 and autonomous research tools to autonomous driving and financial automation — questions of reasoning,

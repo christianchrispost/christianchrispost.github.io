@@ -15,9 +15,9 @@ tagline                  : "Sic Luceat Lux"  # Short motto for header (Matthew 5
 # Quote for homepage blockquote
 quote_blockquote         : "What is now proved was once only imagined."
 quote_blockquote_source  : "William Blake"
-# Quote for footer
-quote_footer             : "Sic Luceat Lux"
-quote_footer_source      : "Matthew 5:16 (Vulgate)"
+# Quote for footer (leave blank to hide)
+quote_footer             :
+quote_footer_source       :
 name                     : &name "Christian Nickel"
 description              : &description "AI researcher, exploring the intersection of AI and human cognition. Specializing in NLP, LLMs, and Theory of Mind. Passionate about interdisciplinary approaches to push the boundaries of AI and its applications."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://christianchrispost.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
