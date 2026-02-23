@@ -59,6 +59,11 @@ behavior is one of the core challenges in current AI research.
   ([Neurosymbolic LLM Reasoning, EMNLP 2025](https://aclanthology.org/2025.emnlp-main.1556.pdf))
 - **Chain-of-Thought analysis** — faithfulness, robustness, and correctness of reasoning traces
   (see [my work on ToM reasoning evaluation](https://arxiv.org/abs/2410.06271))
+- **Goal-directed reasoning and emergent misalignment** — how agentic reasoning toward objectives
+  can give rise to instrumental behaviors such as deception, manipulation, or self-preservation,
+  even without explicit instruction
+  ([Agentic Misalignment](https://www.anthropic.com/research/agentic-misalignment),
+  [Claude 4 System Card](https://www.anthropic.com/claude-4-system-card))
 - **Advanced agentic architectures** — memory, retrieval-augmented generation (RAG), hybrid models,
   and multi-agent coordination
 
