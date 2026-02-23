@@ -19,8 +19,6 @@ Christian Nickel, Laura Schrewe, Lucie Flek
 Short paper and poster presentation  
 [\[arXiv\]](https://arxiv.org/abs/2410.06271)
 
----
-
 ### 2024
 **Probing the Robustness of Theory of Mind in Large Language Models**  
 Laura Schrewe, Christian Nickel, Lucie Flek  
@@ -28,19 +26,13 @@ Laura Schrewe, Christian Nickel, Lucie Flek
 Short paper and poster · 🏆 **Best Poster Award**  
 [\[arXiv\]](https://arxiv.org/abs/2410.06271) · [\[OpenReview\]](https://openreview.net/forum?id=X8Mdv9qLOS)
 
----
-
 ### Under Review
 **Full paper on Theory of Mind and Reasoning**  
 *Currently under review*
 
----
-
 ### Forthcoming
 Further papers from current projects expected by end of 2025 / early 2026.  
 [→ See current projects below](#research-projects)
-
----
 
 ## Research Projects
 ### Ongoing
@@ -58,8 +50,6 @@ going beyond purely linguistic analysis to study behavioral shifts directly. Pre
 Studying how human strategic behavior shifts in economic games when participants face AI
 opponents rather than human ones. The project investigates behavioral patterns, adaptation
 strategies, and the cognitive effects of perceived AI agency on human decision-making.
-
----
 
 ### Completed
 **Theory of Mind in Large Language Models** *(2024)*  

@@ -36,7 +36,8 @@ author:
   bio              : "AI researcher, exploring the intersection of AI and human cognition. Specializing in NLP, LLMs, and Theory of Mind. Passionate about interdisciplinary approaches to push the boundaries of AI and its applications."
   #location         : "Earth"
   employer         : "RC Trust"
-  uri              : "https://rc-trust.ai/"
+  employer_uri     : "https://rc-trust.ai/"
+  uri              : # Personal website URL
   #email            : "none@example.org"
   cv_pdf           : # e.g. "cv.pdf" — add your CV PDF to files/ and uncomment to show download button 
 
