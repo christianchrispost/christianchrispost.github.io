@@ -16,19 +16,19 @@ AI opponents — at the intersection of AI, behavioral science, and human cognit
 In a parallel project with [Dr. Florian Mai](https://florianmai.github.io/) (University of Bonn),
 I investigate the steerability of LLM agents with respect to predefined rules and properties in
 social environments — analyzing how targeted interventions shape model reasoning and subsequent
-behavior. A pre-print will be available soon.
+behavior. A preprint will be available soon.
 
 ## Research Journey
 My path toward AI safety and human–AI interaction grew through a series of research experiences
 that each deepened my understanding of what makes AI trustworthy.
 
 During and after my Master's in Computer Science at the University of Bonn, I worked at the
-[Data Science & Language Technologies Group (CAISA Lab)](https://caisa-lab.github.io/),
+[Data Science & Language Technologies Group (CAISA Lab)](https://caisa-lab.github.io/), Bonn-Aachen International Center for Information Technology (b-it), University of Bonn,
 advised by Prof. Dr. Lucie Flek, focusing on Reasoning Chains and Faithfulness in LLMs.
 Together with Laura Schrewe, I developed a novel benchmark of perturbed Theory of Mind (ToM) tasks
 and metrics for AI reasoning correctness — work that earned us the
-**[Best Poster Award](/awards/) at [WiNLP](https://openreview.net/forum?id=X8Mdv9qLOS) @ [EMNLP 2024](https://2024.emnlp.org/)** in Miami.
-A follow-up paper was presented at the [ToM4AI workshop at AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf), [OpenReview](https://openreview.net/forum?id=qlVb8BQxT6)),
+**[Best Poster Award](/awards/) at [WiNLP](https://openreview.net/forum?id=X8Mdv9qLOS) @ [EMNLP 2024](https://2024.emnlp.org/)** in Miami, FL, USA.
+A follow-up paper was presented at the [ToM4AI Workshop @ AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf), [OpenReview](https://openreview.net/forum?id=qlVb8BQxT6)),
 and an extended version probing reasoning robustness is now available as a [preprint](https://arxiv.org/abs/2602.22072).
 
 Before my PhD, I worked as a Research Assistant at the
@@ -49,7 +49,7 @@ analyzing network traffic and evaluating GDPR conformity.
   Focus: Cybersecurity, Usable Security, Artificial Intelligence
 
 ## Awards & Recognition
-- **[Best Poster Award](/awards/)** — [WiNLP](https://openreview.net/forum?id=X8Mdv9qLOS) @ [EMNLP 2024](https://2024.emnlp.org/), Miami, FL
+- **[Best Poster Award](/awards/)** — [WiNLP](https://openreview.net/forum?id=X8Mdv9qLOS) @ [EMNLP 2024](https://2024.emnlp.org/), Miami, FL, USA
   *"Probing the Robustness of Theory of Mind in Large Language Models"* — with Laura Schrewe
 
 ## Beyond Research

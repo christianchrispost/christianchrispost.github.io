@@ -32,11 +32,11 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - Research at the intersection of AI, behavioral science, and human cognition
   - Parallel project on LLM agent steerability and behavior analysis (with Dr. Florian Mai, University of Bonn)
 - **Researcher — Oct 2024 – Dec 2024**
-  - **CAISA Lab, Bonn-Aachen International Center for Information Technology (b-it)**
+  - **Data Science & Language Technologies Group (CAISA Lab), Bonn-Aachen International Center for Information Technology (b-it), University of Bonn**
   - Built and evaluated systems of multiple socially-aware LLM-based agents incorporating Theory of Mind
   - Investigated emergent Theory of Mind capabilities in Large Language Models
   - Published research on LLM Theory of Mind robustness ([WiNLP](/awards/) @ [EMNLP 2024](https://2024.emnlp.org/), Best Poster Award · [OpenReview](https://openreview.net/forum?id=X8Mdv9qLOS))
-  - Presented follow-up work at the [ToM4AI workshop @ AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf), [OpenReview](https://openreview.net/forum?id=qlVb8BQxT6))
+  - Presented follow-up work at the [ToM4AI Workshop @ AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf), [OpenReview](https://openreview.net/forum?id=qlVb8BQxT6))
 - **Research Assistant — Sep 2022 – Aug 2023**
   - **Fraunhofer Institute for Applied Information Technology (FIT)**
   - Developed and evaluated Self-Sovereign Identity (SSI) solutions with a focus on usability and interoperability
@@ -68,20 +68,20 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 
 ## Projects
 - **Socially-Aware LLM Agents with Theory of Mind — 2024**
-  - *CAISA Lab, University of Bonn*
+  - *Data Science & Language Technologies Group (CAISA Lab), Bonn-Aachen International Center for Information Technology (b-it), University of Bonn*
   - Developed framework for LLM-based social agents with authentic personality representation and Theory of Mind reasoning
   - Implemented system for agents to maintain private mental states and public conversational outputs
   - Generated persona-driven conversations using personality vectors (Big5, MBTI)
   - Created evaluation framework for personality authenticity
   - Led bi-weekly Special Interest Group on social agents in 2024
 - **Theory of Mind in Large Language Models — 2024**
-  - *CAISA Lab, University of Bonn*
+  - *Data Science & Language Technologies Group (CAISA Lab), Bonn-Aachen International Center for Information Technology (b-it), University of Bonn*
   - Developed comprehensive human-written and annotated benchmark for evaluating ToM in LLMs
   - Created novel metrics for assessing Chain-of-Thought reasoning correctness
   - Investigated robustness of ToM capabilities under various perturbations
   - Presented at [WiNLP](https://openreview.net/forum?id=X8Mdv9qLOS) @ [EMNLP 2024](https://2024.emnlp.org/)
 - **Human vs Machine Attention Analysis — 2023**
-  - *Lab Development and Application of Data Mining, University of Bonn*
+  - *Lab: Development and Application of Data Mining, University of Bonn*
   - Compared human eye-tracking data with machine attention mechanisms in NLP
   - Analyzed correlation between human fixation patterns and machine saliency scores
   - Evaluated differences between English and German language processing

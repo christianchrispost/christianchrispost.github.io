@@ -37,7 +37,7 @@ Short paper and poster · 🏆 **[Best Poster Award](/awards/)**
 Investigating the steerability of LLM agents with respect to predefined rules, values, and
 properties in social environments. We analyze how targeted interventions shape model reasoning
 and subsequent behavior — evaluating the impact of reasoning chains on resulting behavior and
-going beyond purely linguistic analysis to study behavioral shifts directly. Pre-print forthcoming.
+going beyond purely linguistic analysis to study behavioral shifts directly. Preprint forthcoming.
 - **Strategic Human–AI Interaction in Economic Games** *(2025 – present)*  
 *RC-Trust / HUAM Group, University of Duisburg-Essen*
 Studying how human strategic behavior shifts in economic games when participants face AI
@@ -46,11 +46,11 @@ strategies, and the cognitive effects of perceived AI agency on human decision-m
 
 ### Completed
 - **Theory of Mind in Large Language Models** *(2024)*  
-*CAISA Lab, University of Bonn*
+*Data Science & Language Technologies Group (CAISA Lab), Bonn-Aachen International Center for Information Technology (b-it), University of Bonn*
 Developed a comprehensive human-written and annotated benchmark dataset of 68 tasks across 10
 complexity classes for evaluating Theory of Mind in LLMs. Created novel metrics for assessing
 Chain-of-Thought reasoning correctness and investigated robustness of ToM capabilities under
-various perturbations. Presented at [WiNLP](/awards/) @ [EMNLP 2024](https://2024.emnlp.org/) (Best Poster Award) and [ToM4AI](https://openreview.net/forum?id=qlVb8BQxT6) @ [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf)). Extended full paper: [\[arXiv:2602.22072\]](https://arxiv.org/abs/2602.22072)  
+various perturbations. Presented at [WiNLP](/awards/) @ [EMNLP 2024](https://2024.emnlp.org/) (Best Poster Award) and [ToM4AI Workshop](https://openreview.net/forum?id=qlVb8BQxT6) @ [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf)). Extended full paper: [\[arXiv:2602.22072\]](https://arxiv.org/abs/2602.22072)  
 (an early paper focusing on the robustness part: [\[arXiv\]](https://arxiv.org/abs/2410.06271))
 - **Human vs Machine Attention Analysis** *(2023)*  
 *Lab: Development and Application of Data Mining, University of Bonn*
