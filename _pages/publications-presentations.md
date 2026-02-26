@@ -10,8 +10,13 @@ redirect_from:
 ## Publications & Presentations
 ### Forthcoming
 - Further papers from current projects expected by early 2026. [→ See current projects below](#research-projects)
-- **Full paper on Theory of Mind and Reasoning**
-  Preprint: | 
+
+### 2026
+- **Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models**  
+Christian Nickel, Laura Schrewe, Florian Mai, Lucie Flek  
+*Preprint — February 2026*  
+[\[arXiv\]](https://arxiv.org/abs/2602.22072)
+
 ### 2025
 - **Probing the Robustness of Theory of Mind in Large Language Models**  
 Christian Nickel, Laura Schrewe, Lucie Flek  
@@ -45,8 +50,8 @@ strategies, and the cognitive effects of perceived AI agency on human decision-m
 Developed a comprehensive human-written and annotated benchmark dataset of 68 tasks across 10
 complexity classes for evaluating Theory of Mind in LLMs. Created novel metrics for assessing
 Chain-of-Thought reasoning correctness and investigated robustness of ToM capabilities under
-various perturbations. Presented at [WiNLP @ EMNLP 2024](/awards/) (Best Poster Award) and ToM4AI @ AAAI 2025.  
-[\[arXiv\]](https://arxiv.org/abs/2410.06271)
+various perturbations. Presented at [WiNLP @ EMNLP 2024](/awards/) (Best Poster Award) and ToM4AI @ AAAI 2025. Extended full paper: [\[arXiv:2602.22072\]](https://arxiv.org/abs/2602.22072)  
+(an early paper focusing on the robustness part: [\[arXiv\]](https://arxiv.org/abs/2410.06271))
 - **Human vs Machine Attention Analysis** *(2023)*  
 *Lab: Development and Application of Data Mining, University of Bonn*
 Compared human eye-tracking data with machine attention mechanisms in NLP. Analyzed correlation

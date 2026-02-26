@@ -62,7 +62,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 ## Publications & Presentations
 - **[WiNLP @ EMNLP 2024, Miami, FL, USA](/awards/)** — Short paper and poster, Best Poster Award *(2024)*
 - **ToM4AI Workshop @ AAAI 2025, Philadelphia, PA, USA** — Short paper and poster presentation *(2025)*
-- **Extended robustness and reasoning study** — currently under review *(2025/2026)*
+- **[Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models](/publications-presentations/)** — preprint *(2026)* [\[arXiv:2602.22072\]](https://arxiv.org/abs/2602.22072)
 
 [→ Full details on the publications page](/publications-presentations/)
 

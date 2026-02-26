@@ -29,7 +29,7 @@ Together with Laura Schrewe, I developed a novel benchmark of perturbed Theory o
 and metrics for AI reasoning correctness — work that earned us the
 **[Best Poster Award](/awards/) at [WiNLP @ EMNLP 2024](https://arxiv.org/abs/2410.06271)** in Miami.
 A follow-up paper was presented at the [ToM4AI workshop at AAAI 2025](https://tom4ai.github.io),
-and an extended version probing reasoning robustness is currently under review.
+and an extended version probing reasoning robustness is now available as a [preprint](https://arxiv.org/abs/2602.22072).
 
 Before my PhD, I worked as a Research Assistant at the
 [Fraunhofer Institute for Applied Information Technology (FIT)](https://www.fit.fraunhofer.de/)
