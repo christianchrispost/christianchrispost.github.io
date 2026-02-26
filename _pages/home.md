@@ -18,6 +18,13 @@ I currently work as a full-time researcher at the [Research Center Trustworthy D
 
 ## News
 - **2026** — We released a preprint on **Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models** ([arXiv:2602.22072](https://arxiv.org/abs/2602.22072)).
+- **2025** —
+
+  ![AIAS 2025 San Francisco](/images/AIAS_photo.jpg){: .align-right}
+
+  Visited the [AIAS 2025: Chen Institute Symposium for AI Accelerated Science](https://www.aias2025.org/) in San Francisco. Super grateful for the great impressions on SOTA AI, applications to science and in practice, what is possible and what not, and Tianqiao's and Chrissy's commitment and vision for future AI, as well as meeting so many interesting people and striking up great conversations.
+
+  Had a great, fascinating time at [Manny's](https://www.google.de/maps/place/Manny%E2%80%99s/@37.7649466,-122.421592,17z/data=!4m6!3m5!1s0x808f7fbca72c2553:0xa26a4d14f1af0f2b!8m2!3d37.7650923!4d-122.4217044!16s%2Fg%2F11g0drq93c?entry=ttu) at Nate Soares' reading and discussion of "If Anyone Builds It, Everyone Dies". The compelling discussion reinforced my view that we must commit to creating mutually beneficial human–AI relationships in the future.
 - **2025** — Laura Schrewe, Lucie Flek and I presented our short paper **Understanding Theory of Mind in Large Language Models: The Role of Perturbations and Chain-of-Thought Prompting** at the [ToM4AI Workshop @ AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) in Philadelphia, PA, USA ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf), [OpenReview](https://openreview.net/forum?id=qlVb8BQxT6)).
 - **2024** — Laura Schrewe and I received the **[Best Poster Award](/awards/)** at [EMNLP 2024](https://2024.emnlp.org/)’s WiNLP workshop for our work on [probing Theory of Mind in large language models](https://openreview.net/forum?id=X8Mdv9qLOS).
 
