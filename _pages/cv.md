@@ -35,8 +35,8 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - **CAISA Lab, Bonn-Aachen International Center for Information Technology (b-it)**
   - Built and evaluated systems of multiple socially-aware LLM-based agents incorporating Theory of Mind
   - Investigated emergent Theory of Mind capabilities in Large Language Models
-  - Published research on LLM Theory of Mind robustness ([WiNLP @ EMNLP 2024, Best Poster Award](/awards/) · [OpenReview](https://openreview.net/forum?id=X8Mdv9qLOS))
-  - Presented follow-up work at the ToM4AI workshop @ AAAI 2025
+  - Published research on LLM Theory of Mind robustness ([WiNLP](/awards/) @ [EMNLP 2024](https://2024.emnlp.org/), Best Poster Award · [OpenReview](https://openreview.net/forum?id=X8Mdv9qLOS))
+  - Presented follow-up work at the [ToM4AI workshop @ AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf), [OpenReview](https://openreview.net/forum?id=qlVb8BQxT6))
 - **Research Assistant — Sep 2022 – Aug 2023**
   - **Fraunhofer Institute for Applied Information Technology (FIT)**
   - Developed and evaluated Self-Sovereign Identity (SSI) solutions with a focus on usability and interoperability
@@ -56,12 +56,12 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 
 ## Awards & Recognition
 - **[Best Poster Award — 2024](/awards/)**
-  - *WiNLP @ EMNLP 2024, Miami, FL, USA* — **"Probing the Robustness of Theory of Mind in Large Language Models"** — with Laura Schrewe
+  - *[WiNLP](https://openreview.net/forum?id=X8Mdv9qLOS) @ [EMNLP 2024](https://2024.emnlp.org/), Miami, FL, USA* — **"Probing the Robustness of Theory of Mind in Large Language Models"** — with Laura Schrewe
   - Large Language Models fail to attribute beliefs to others in non-trivial situations; Chain-of-Thought reasoning seldom helps.
 
 ## Publications & Presentations
 - **[WiNLP @ EMNLP 2024, Miami, FL, USA](/awards/)** — Short paper and poster, Best Poster Award *(2024)* [\[OpenReview\]](https://openreview.net/forum?id=X8Mdv9qLOS)
-- **ToM4AI Workshop @ AAAI 2025, Philadelphia, PA, USA** — Short paper and poster presentation *(2025)*
+- **ToM4AI Workshop @ [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), Philadelphia, PA, USA** — Short paper and poster presentation *(2025)* [\[PDF\]](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf) · [\[OpenReview\]](https://openreview.net/forum?id=qlVb8BQxT6)
 - **[Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models](/publications-presentations/)** — preprint *(2026)* [\[arXiv:2602.22072\]](https://arxiv.org/abs/2602.22072)
 
 [→ Full details on the publications page](/publications-presentations/)
@@ -79,7 +79,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - Developed comprehensive human-written and annotated benchmark for evaluating ToM in LLMs
   - Created novel metrics for assessing Chain-of-Thought reasoning correctness
   - Investigated robustness of ToM capabilities under various perturbations
-  - Presented at [WiNLP @ EMNLP 2024](https://openreview.net/forum?id=X8Mdv9qLOS)
+  - Presented at [WiNLP](https://openreview.net/forum?id=X8Mdv9qLOS) @ [EMNLP 2024](https://2024.emnlp.org/)
 - **Human vs Machine Attention Analysis — 2023**
   - *Lab Development and Application of Data Mining, University of Bonn*
   - Compared human eye-tracking data with machine attention mechanisms in NLP

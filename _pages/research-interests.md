@@ -80,7 +80,7 @@ Trustworthy AI is not only about what a model does in isolation — it is about 
 humans who have incomplete information, cognitive biases, and diverse mental models of the system.
 - **Theory of Mind (ToM) in LLMs** — probing whether models can reliably attribute beliefs,
   knowledge, and intentions to others, and whether this scales robustly
-  (see [our EMNLP 2024 paper](https://openreview.net/forum?id=X8Mdv9qLOS) and extended [Understanding Artificial Theory of Mind preprint](https://arxiv.org/abs/2602.22072))
+  (see [our WiNLP @ EMNLP 2024 paper](https://openreview.net/forum?id=X8Mdv9qLOS) and extended [Understanding Artificial Theory of Mind preprint](https://arxiv.org/abs/2602.22072))
 - **Correct user modeling** — building AI systems that form accurate representations of user intent,
   knowledge state, and expectations
 - **Anticipating human behaviors in relation to AI** — understanding how humans adapt, over-trust,

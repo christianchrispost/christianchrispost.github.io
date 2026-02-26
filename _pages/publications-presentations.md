@@ -18,15 +18,15 @@ Christian Nickel, Laura Schrewe, Florian Mai, Lucie Flek
 [\[arXiv\]](https://arxiv.org/abs/2602.22072)
 
 ### 2025
-- **Probing the Robustness of Theory of Mind in Large Language Models**  
+- **Understanding Theory of Mind in Large Language Models: The Role of Perturbations and Chain-of-Thought Prompting**  
 Christian Nickel, Laura Schrewe, Lucie Flek  
-*ToM4AI Workshop @ AAAI 2025, Philadelphia, PA, USA — March 3, 2025*  
+*ToM4AI Workshop @ [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/), Philadelphia, PA, USA — March 3, 2025*  
 Short paper and poster presentation  
-[\[arXiv\]](https://arxiv.org/abs/2410.06271)
+[\[PDF\]](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf) · [\[OpenReview\]](https://openreview.net/forum?id=qlVb8BQxT6)
 ### 2024
 - **Probing the Robustness of Theory of Mind in Large Language Models**  
 Laura Schrewe, Christian Nickel, Lucie Flek  
-*WiNLP @ EMNLP 2024, Miami, FL, USA — November 2024*  
+*WiNLP @ [EMNLP 2024](https://2024.emnlp.org/), Miami, FL, USA — November 2024*  
 Short paper and poster · 🏆 **[Best Poster Award](/awards/)**  
 [\[arXiv\]](https://arxiv.org/abs/2410.06271) · [\[OpenReview\]](https://openreview.net/forum?id=X8Mdv9qLOS)
 
@@ -50,7 +50,7 @@ strategies, and the cognitive effects of perceived AI agency on human decision-m
 Developed a comprehensive human-written and annotated benchmark dataset of 68 tasks across 10
 complexity classes for evaluating Theory of Mind in LLMs. Created novel metrics for assessing
 Chain-of-Thought reasoning correctness and investigated robustness of ToM capabilities under
-various perturbations. Presented at [WiNLP @ EMNLP 2024](/awards/) (Best Poster Award) and ToM4AI @ AAAI 2025. Extended full paper: [\[arXiv:2602.22072\]](https://arxiv.org/abs/2602.22072)  
+various perturbations. Presented at [WiNLP](/awards/) @ [EMNLP 2024](https://2024.emnlp.org/) (Best Poster Award) and [ToM4AI](https://openreview.net/forum?id=qlVb8BQxT6) @ [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf)). Extended full paper: [\[arXiv:2602.22072\]](https://arxiv.org/abs/2602.22072)  
 (an early paper focusing on the robustness part: [\[arXiv\]](https://arxiv.org/abs/2410.06271))
 - **Human vs Machine Attention Analysis** *(2023)*  
 *Lab: Development and Application of Data Mining, University of Bonn*
