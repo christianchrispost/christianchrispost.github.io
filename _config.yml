@@ -19,7 +19,7 @@ quote_blockquote_source  : "William Blake"
 quote_footer             :
 quote_footer_source       :
 name                     : &name "Christian Nickel"
-description              : &description "AI researcher, exploring the intersection of AI and human cognition. Specializing in NLP, LLMs, and Theory of Mind. Passionate about interdisciplinary approaches to push the boundaries of AI and its applications."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Computer Scientist and Researcher @ RC-Trust. Exploring AI-Reasoning, -Safety and -Security and its intersection with Human Behavior. Passionate about both progress and safety in the AI age, incorporating multidisciplinary approaches to push the boundaries of AI and its applications."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://christianchrispost.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -33,7 +33,7 @@ author:
   avatar           : "liphoto.jpg"
   name             : "Christian Nickel"
   pronouns         : # example: "she/her"  
-  bio              : "AI researcher, exploring the intersection of AI and human cognition. Specializing in NLP, LLMs, and Theory of Mind. Passionate about interdisciplinary approaches to push the boundaries of AI and its applications."
+  bio              : "Computer Scientist and Researcher @ RC-Trust. Exploring AI-Reasoning, -Safety and -Security and its intersection with Human Behavior. Passionate about both progress and safety in the AI age, incorporating multidisciplinary approaches to push the boundaries of AI and its applications."
   #location         : "Earth"
   employer         : "RC Trust"
   employer_uri     : "https://rc-trust.ai/"
