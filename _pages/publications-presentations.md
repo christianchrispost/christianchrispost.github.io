@@ -9,7 +9,7 @@ redirect_from:
 
 ## Publications & Presentations
 ### Forthcoming
-- Further papers from current projects expected by early 2026. [→ See current projects below](#research-projects)
+- Further papers from current projects are expected by early 2026. [→ See current projects below](#research-projects)
 
 ### 2026
 - **Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models**  

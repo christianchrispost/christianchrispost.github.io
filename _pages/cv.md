@@ -18,7 +18,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 ## Research Interests
 [→ Full details on the Interests page](/research-interests/)
 - Generative AI, LLMs, NLP, Deep Learning
-- AI Safety and (Cyber-)Security
+- AI-Safety and (Cyber-)Security
   - Model Reasoning, Alignment and Steerability
   - Tool Usage, and Agentic AI Systems
 - Human–AI Interaction (HAI), Usable Security, and HCI — including Theory of Mind and user modeling
@@ -33,7 +33,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - Parallel project on LLM agent steerability and behavior analysis (with Dr. Florian Mai, University of Bonn)
 - **Researcher — Oct 2024 – Dec 2024**
   - **Data Science & Language Technologies Group (CAISA Lab), Bonn-Aachen International Center for Information Technology (b-it), University of Bonn**
-  - Built and evaluated systems of multiple socially-aware LLM-based agents incorporating Theory of Mind
+  - Built and evaluated socially-aware LLM-based multi-agent systems incorporating Theory of Mind
   - Investigated emergent Theory of Mind capabilities in Large Language Models
   - Published research on LLM Theory of Mind robustness ([WiNLP](/awards/) @ [EMNLP 2024](https://2024.emnlp.org/), Best Poster Award · [OpenReview](https://openreview.net/forum?id=X8Mdv9qLOS))
   - Presented follow-up work at the [ToM4AI Workshop @ AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) ([PDF](/files/AAAI_2025/ToM4AI/34_Understanding_Theory_of_Min.pdf), [OpenReview](https://openreview.net/forum?id=qlVb8BQxT6))

@@ -11,17 +11,17 @@ The same systems that unlock tremendous productivity gains also introduce novel 
 information leakage through jailbreaks, selective disclosure failures, sleeper agent vulnerabilities,
 and adversarial behaviors ranging from simple misunderstandings to manipulation and
 [deception and blackmail](https://www.anthropic.com/claude-4-system-card).
-At the same time, with agents increasingly acting on behalf of humans, ensuring models understand user intent, goals and knowledge (Theory of Mind, ToM) on the one hand, and incorporating knowledge of human interaction and behavior interacting with models on the other (Automation Bias, Cognitive Effort), become important fields of study. Moreover we face urgent questions
+At the same time, with agents increasingly acting on behalf of humans, ensuring models understand user intent, goals and knowledge (Theory of Mind, ToM) on the one hand, and incorporating knowledge of human interaction and human behavior when interacting with models on the other (Automation Bias, Cognitive Effort), become important fields of study. Moreover, we face urgent questions
 around identity, accountability, and [proof of humanship](https://www.identity.org/why-ai-agents-need-verified-digital-identities/).
 
 Incorporating safety and security is not a constraint on AI progress — it is the enabler that makes
 AI deployable in the environments where it matters most: safety-critical systems, regulated industries,
 and scientific research. I wish to contribute to these challenges, with a particular focus on reasoning,
-AI safety and security, and at the interface to cybersecurity and human–AI interaction.
+AI-Safety and security, and at the interface with Cybersecurity and human–AI interaction.
 
 ## Areas of Interest and Expertise
 - Generative AI, LLMs, NLP, Deep Learning
-- AI Safety and (Cyber-)Security
+- AI-Safety and (Cyber-)Security
   - Model Reasoning, Alignment and Steerability
   - Tool Usage, and Agentic AI Systems
 - Human–AI Interaction (HAI), Usable Security, and HCI — including Theory of Mind and user modeling
@@ -29,20 +29,20 @@ AI safety and security, and at the interface to cybersecurity and human–AI int
 - Distributed Ledger Technology (DLT), Self-Sovereign Identity (SSI) and Smart Contracts
 
 ## Key Research Questions
-- How can we detect or increase model steerability — including model personality and values,
-  detecting sleeper agents, and selective disclosure (for Theory of Mind, economic or social simulation, red teaming or in production according to user access levels) and jailbreak resistance?
+- How can we detect or increase model steerability? This includes model personality and values,
+  detecting sleeper agents, selective disclosure (for Theory of Mind, economic or social simulation, red teaming or in production according to user access levels), and jailbreak resistance.
 - How do we evaluate model reasoning and resulting (given faithfulness) behavior, from simulation-based approaches to
   pre-deployment certification of trustworthiness and live monitoring during deployment?
 - How do hybrid systems of human and AI agents behave under different incentives, information
   asymmetries, and personality configurations — and what behavioral patterns should we anticipate
-  and design for? *(current: Social Agents and strategic interaction project)*
+  and design for? *(current: Social Agents and Strategic Interaction project)*
 - How do we train, fine-tune, and host inference locally and independently, while preserving capability and security?
 
 ## More Detailed Motivation and Description of Research Interests
-### AI Safety and (Cyber-)Security
+### AI-Safety and (Cyber-)Security
 As AI systems grow more capable and autonomous, ensuring their safe and robust behavior under
 real-world conditions becomes critical. This encompasses both technical robustness and alignment
-with user intent, values, and ethics — and has direct overlap with cybersecurity.
+with user intent, values, and ethics — and has direct overlap with Cybersecurity.
 - **Alignment and model behavior analysis** — from controlled sandboxes to rich environments like
   [world models (Genie 3)](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)
 - **Adversarial behaviors** — deception, manipulation, and [blackmail under pressure](https://www.anthropic.com/claude-4-system-card),

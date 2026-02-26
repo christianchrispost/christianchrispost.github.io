@@ -19,7 +19,7 @@ social environments — analyzing how targeted interventions shape model reasoni
 behavior. A preprint will be available soon.
 
 ## Research Journey
-My path toward AI safety and human–AI interaction grew through a series of research experiences
+My path toward AI-Safety and human–AI interaction grew through a series of research experiences
 that each deepened my understanding of what makes AI trustworthy.
 
 During and after my Master's in Computer Science at the University of Bonn, I worked at the
@@ -56,11 +56,11 @@ analyzing network traffic and evaluating GDPR conformity.
 I am passionate about approaches that merge disciplines and push the boundaries of what we understand —
 in and outside of research. Some things I find myself thinking about, exploring or building in my spare time:
 
-- **FOSS Smart Home** — a self-hosted, privacy-preserving stack centered around [Home Assistant](https://www.home-assistant.io/)
+- **FOSS Smart Home** — a self-hosted, privacy-preserving stack centered on [Home Assistant](https://www.home-assistant.io/)
 - **Hi-Fi and Acoustics** — the bridge between physical properties of sound and human perception:
-  why does a speaker sound "warm" or "slow", and what does that mean in measurable quantities?
+  Why does a speaker sound "warm" or "slow", and what does that mean in measurable quantities?
 - **Astronomy and Physics** — exploring the cosmos at large and niche corners of physics like Bohmian Mechanics
-- **Historic Technology and Engineering** — from ancient architecture to early engineering marvels
+- **Historical Technology and Engineering** — from ancient architecture to early engineering marvels
   (Vitruvius' *De Architectura* sits on my shelf — waiting for someone else to also notice it...)
 - **Exploring Places** — on foot, eMTB, or road trip: lively cities, abandoned monasteries,
   deserted landscapes, and everything in between
