@@ -66,7 +66,7 @@ behavior is one of the core challenges in current AI research.
   reliability and interpretability of LLM reasoning
   ([Neurosymbolic LLM Reasoning, EMNLP 2025](https://aclanthology.org/2025.emnlp-main.1556.pdf))
 - **Chain-of-Thought analysis** — faithfulness, robustness, and correctness of reasoning traces
-  (see [my work on ToM reasoning evaluation](https://arxiv.org/abs/2410.06271))
+  (see [my work on ToM reasoning evaluation](https://openreview.net/forum?id=X8Mdv9qLOS))
 - **Goal-directed reasoning and emergent misalignment** — how agentic reasoning toward objectives
   can give rise to instrumental behaviors such as deception, manipulation, or self-preservation,
   even without explicit instruction
@@ -80,7 +80,7 @@ Trustworthy AI is not only about what a model does in isolation — it is about 
 humans who have incomplete information, cognitive biases, and diverse mental models of the system.
 - **Theory of Mind (ToM) in LLMs** — probing whether models can reliably attribute beliefs,
   knowledge, and intentions to others, and whether this scales robustly
-  (see [my EMNLP 2024 paper](https://arxiv.org/abs/2410.06271) and extended [Understanding Artificial Theory of Mind preprint](https://arxiv.org/abs/2602.22072))
+  (see [our EMNLP 2024 paper](https://openreview.net/forum?id=X8Mdv9qLOS) and extended [Understanding Artificial Theory of Mind preprint](https://arxiv.org/abs/2602.22072))
 - **Correct user modeling** — building AI systems that form accurate representations of user intent,
   knowledge state, and expectations
 - **Anticipating human behaviors in relation to AI** — understanding how humans adapt, over-trust,

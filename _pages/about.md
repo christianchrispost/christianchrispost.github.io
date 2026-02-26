@@ -27,7 +27,7 @@ During and after my Master's in Computer Science at the University of Bonn, I wo
 advised by Prof. Dr. Lucie Flek, focusing on Reasoning Chains and Faithfulness in LLMs.
 Together with Laura Schrewe, I developed a novel benchmark of perturbed Theory of Mind (ToM) tasks
 and metrics for AI reasoning correctness — work that earned us the
-**[Best Poster Award](/awards/) at [WiNLP @ EMNLP 2024](https://arxiv.org/abs/2410.06271)** in Miami.
+**[Best Poster Award](/awards/) at [WiNLP @ EMNLP 2024](https://openreview.net/forum?id=X8Mdv9qLOS)** in Miami.
 A follow-up paper was presented at the [ToM4AI workshop at AAAI 2025](https://tom4ai.github.io),
 and an extended version probing reasoning robustness is now available as a [preprint](https://arxiv.org/abs/2602.22072).
 
@@ -49,7 +49,7 @@ analyzing network traffic and evaluating GDPR conformity.
   Focus: Cybersecurity, Usable Security, Artificial Intelligence
 
 ## Awards & Recognition
-- **[Best Poster Award](/awards/)** — [WiNLP @ EMNLP 2024](https://arxiv.org/abs/2410.06271), Miami, FL
+- **[Best Poster Award](/awards/)** — [WiNLP @ EMNLP 2024](https://openreview.net/forum?id=X8Mdv9qLOS), Miami, FL
   *"Probing the Robustness of Theory of Mind in Large Language Models"* — with Laura Schrewe
 
 ## Beyond Research

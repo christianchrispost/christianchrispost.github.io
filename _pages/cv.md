@@ -35,7 +35,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - **CAISA Lab, Bonn-Aachen International Center for Information Technology (b-it)**
   - Built and evaluated systems of multiple socially-aware LLM-based agents incorporating Theory of Mind
   - Investigated emergent Theory of Mind capabilities in Large Language Models
-  - Published research on LLM Theory of Mind robustness ([WiNLP @ EMNLP 2024, Best Poster Award](/awards/))
+  - Published research on LLM Theory of Mind robustness ([WiNLP @ EMNLP 2024, Best Poster Award](/awards/) · [OpenReview](https://openreview.net/forum?id=X8Mdv9qLOS))
   - Presented follow-up work at the ToM4AI workshop @ AAAI 2025
 - **Research Assistant — Sep 2022 – Aug 2023**
   - **Fraunhofer Institute for Applied Information Technology (FIT)**
@@ -60,7 +60,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - Large Language Models fail to attribute beliefs to others in non-trivial situations; Chain-of-Thought reasoning seldom helps.
 
 ## Publications & Presentations
-- **[WiNLP @ EMNLP 2024, Miami, FL, USA](/awards/)** — Short paper and poster, Best Poster Award *(2024)*
+- **[WiNLP @ EMNLP 2024, Miami, FL, USA](/awards/)** — Short paper and poster, Best Poster Award *(2024)* [\[OpenReview\]](https://openreview.net/forum?id=X8Mdv9qLOS)
 - **ToM4AI Workshop @ AAAI 2025, Philadelphia, PA, USA** — Short paper and poster presentation *(2025)*
 - **[Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models](/publications-presentations/)** — preprint *(2026)* [\[arXiv:2602.22072\]](https://arxiv.org/abs/2602.22072)
 
@@ -79,7 +79,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
   - Developed comprehensive human-written and annotated benchmark for evaluating ToM in LLMs
   - Created novel metrics for assessing Chain-of-Thought reasoning correctness
   - Investigated robustness of ToM capabilities under various perturbations
-  - Presented at WiNLP @ EMNLP 2024
+  - Presented at [WiNLP @ EMNLP 2024](https://openreview.net/forum?id=X8Mdv9qLOS)
 - **Human vs Machine Attention Analysis — 2023**
   - *Lab Development and Application of Data Mining, University of Bonn*
   - Compared human eye-tracking data with machine attention mechanisms in NLP

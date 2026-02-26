@@ -14,4 +14,4 @@ author_profile: true
 
 Large Language Models fail to attribute beliefs to others in non-trivial situations; Chain-of-Thought reasoning seldom helps.
 
-[\[arXiv\]](https://arxiv.org/abs/2410.06271)
+[\[OpenReview\]](https://openreview.net/forum?id=X8Mdv9qLOS)

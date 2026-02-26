@@ -18,6 +18,6 @@ I currently work as a full-time researcher at the [Research Center Trustworthy D
 
 ## News
 - **2026** — Laura Schrewe, Florian Mai, Lucie Flek and I released a preprint on **Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models** ([arXiv:2602.22072](https://arxiv.org/abs/2602.22072)).
-- **2024** — Laura Schrewe and I received the **[Best Poster Award](/awards/)** at EMNLP’s WiNLP workshop for our work on probing Theory of Mind in large language models.
+- **2024** — Laura Schrewe and I received the **[Best Poster Award](/awards/)** at EMNLP’s WiNLP workshop for our work on [probing Theory of Mind in large language models](https://openreview.net/forum?id=X8Mdv9qLOS).
 
 [View all publications, presentations and projects →](/publications-presentations/)
