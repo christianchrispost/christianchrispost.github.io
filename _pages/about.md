@@ -18,6 +18,8 @@ I investigate the steerability of LLM agents with respect to predefined rules an
 social environments — analyzing how targeted interventions shape model reasoning and subsequent
 behavior. A preprint will be available soon.
 
+![Chris at the Grand Canyon](/images/chris_grand_canyon.jpg)
+
 ## Research Journey
 My path toward AI-Safety and human–AI interaction grew through a series of research experiences
 that each deepened my understanding of what makes AI trustworthy.
