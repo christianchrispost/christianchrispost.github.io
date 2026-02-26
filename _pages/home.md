@@ -16,6 +16,8 @@ I believe that current and next-generation generative AI can help us make tremen
 Holding an M.Sc. in Computer Science from the University of Bonn, Germany, I seek to address these questions in my future PhD research. I am passionate about interdisciplinary approaches that push the boundaries of AI and its applications and enjoy collaborating with researchers and practitioners across relevant fields.
 I currently work as a full-time researcher at the [Research Center Trustworthy Data Science and Security (RC-Trust)](https://rc-trust.ai) and the University of Duisburg-Essen, in the group “Human Understanding of Algorithms and Machines” (HUAM), which focuses on behavioral effects in humans in relation to AI.
 
+[Read more about me here →](/about/)
+
 ## News
 - **2026** — We released a preprint on **Understanding Artificial Theory of Mind: Perturbed Tasks and Reasoning in Large Language Models** ([arXiv:2602.22072](https://arxiv.org/abs/2602.22072)).
 - **2025** —
