@@ -14,7 +14,7 @@ I am Chris — a Computer Scientist and AI Researcher, currently working as a fu
 [Research Center Trustworthy Data Science and Security (RC-Trust)](https://rc-trust.ai)
 and the University of Duisburg-Essen, in the Human Understanding of Algorithms and Machines (HUAM) group.
 My work there investigates shifts in human strategic behavior in economic games when facing
-AI opponents — at the intersection of AI, behavioral science, and human cognition.
+AI opponents.
 In a parallel project with [Dr. Florian Mai](https://florianmai.github.io/) (University of Bonn),
 I investigate the steerability of LLM agents with respect to predefined rules and properties in
 social environments — analyzing how targeted interventions shape model reasoning and subsequent
