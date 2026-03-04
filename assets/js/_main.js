@@ -23,13 +23,14 @@ let determineComputedTheme = () => {
 const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
 
 // Set the theme on page load or when explicitly called.
-// Default is "dark" when no preference is stored (overrides system preference).
+// Uses system preference when no choice is stored.
 let setTheme = (theme) => {
+  const stored = localStorage.getItem("theme");
   const use_theme =
     theme ||
-    localStorage.getItem("theme") ||
+    (stored === "dark" || stored === "light" ? stored : null) ||
     $("html").attr("data-theme") ||
-    "dark";
+    (browserPref === "dark" ? "dark" : "light");
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
@@ -91,12 +92,12 @@ $(document).ready(function () {
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
-  // If the user hasn't chosen a theme, use dark (default). Only follow system preference if they've never toggled.
+  // If the user hasn't chosen a theme, follow system preference.
   setTheme();
   window.matchMedia('(prefers-color-scheme: dark)')
         .addEventListener("change", (e) => {
           if (!localStorage.getItem("theme")) {
-            setTheme("dark");  // Keep dark as default; ignore system preference changes
+            setTheme(browserPref);
           }
         });
 
