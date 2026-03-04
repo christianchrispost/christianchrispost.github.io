@@ -128,5 +128,6 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 - **French, Italian, Spanish** — Basic
 
 ## Professional Memberships
+- Association for the Advancement of Artificial Intelligence (AAAI) — International AI research society
 - Gesellschaft für Informatik (GI) — German Informatics Society
 - Bund Deutscher Volks- und Betriebswirte (bdvb) — German Association of Business Economists
