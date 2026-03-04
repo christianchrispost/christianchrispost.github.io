@@ -21,7 +21,7 @@ Also see: [LinkedIn](https://www.linkedin.com/in/christian-nickel-9b220130b/)
 - AI-Safety and (Cyber-)Security
   - Model Reasoning, Alignment and Steerability
   - Tool Usage, and Agentic AI Systems
-  - Trustworthy Machine Learning
+- Trustworthy Machine Learning
 - Human–AI Interaction (HAI), Usable Security, and HCI — including Theory of Mind and user modeling
 - Decentralized, local and privacy-preserving AI deployments
 - Distributed Ledger Technology (DLT), Self-Sovereign Identity (SSI) and Smart Contracts
